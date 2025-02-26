@@ -2,4 +2,3 @@
 using System.Diagnostics;
 
 Console.WriteLine("Hello, World!");
-Debug.WriteLine("hello world");
